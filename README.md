@@ -51,24 +51,7 @@ This project focuses on developing an automated information system for generatin
   - openpyxl
   - pandas
 
-## Authors
 
-- **Chen Biazi**
-- **Noa Ezri**
-- **Niv Meirovitz**
-- **Alon Achituv**
 
-## Acknowledgments
 
-- Supervised by Dr. Gabi Pinto
-- Developed as part of the *Analysis and Planning of Information Systems A* course
-
-## Future Enhancements
-
-- **Mobile App Integration**: Expanding functionality for mobile users.
-- **Multiple Event Management**: Allowing users to manage multiple seating plans.
-- **Guest Confirmation System**: Integrating RSVP tracking to adjust seating dynamically.
-- **AI-based Guest Arrangement**: Enhancing the algorithm to factor in social relationships for optimal guest experience.
-
-This system significantly reduces the complexity of event planning by automating the seating arrangement process, improving efficiency, and ensuring guest satisfaction.
 
